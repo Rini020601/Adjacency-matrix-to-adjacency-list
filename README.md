@@ -1,7 +1,5 @@
-Let's consider the graph below.
 
-graph_image
-Two possible representation of this graph are
+Two possible representations of the graph are
 
 the adjacency matrix
 
@@ -14,4 +12,4 @@ adj_mat =   [[0, 1, 0, 1, 0, 0],
 and the adjacency list
 
 adj_list = [[1, 3], [2], [0], [4], [3], []]
-implementing the convertion from the adjacency matrix to an adjacency list
+implementing the conversion from the adjacency matrix to an adjacency list
